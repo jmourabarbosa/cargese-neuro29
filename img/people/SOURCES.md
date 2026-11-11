@@ -24,5 +24,8 @@ Photos taken from each person's own website or institutional profile, cropped to
 | sebastian-goldt.jpg | datascience.sissa.it |
 | ulises-pereira.jpg | image search thumbnail (provided by the organizers) |
 | lea-duncker.jpg | image search thumbnail (provided by the organizers) |
+| richard-gao.jpg | mackelab.org/people |
+| srdjan-ostojic.jpg | lnc2.dec.ens.fr/fr/member/655/srdjan-ostojic |
+| aleksandra-walczak.jpg | phys.ens.psl.eu/~awalczak |
 
 Venue photo (img/venue.jpg): image search thumbnail provided by the organizers.

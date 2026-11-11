@@ -34,6 +34,7 @@ SPEAKERS = [
     ("Samuel Muscinelli", "University of Chicago", "Learning"),
     ("Dan Levenstein", "Yale University", "NeuroAI"),
     ("Ulises Pereira", "Allen Institute", "NeuroAI"),
+    ("Richard Gao", "Goethe University Frankfurt", "NeuroAI"),
 ]
 
 ORGANIZERS = [
@@ -42,6 +43,11 @@ ORGANIZERS = [
     ("Lorenzo Fontolan", "INMED, INSERM, France"),
     ("Agostina Palmigiano", "Gatsby Computational Neuroscience Unit, UCL, UK"),
     ("Lorenzo Posani", "Paris Brain Institute, CNRS, France"),
+]
+
+SCIENTIFIC_COMMITTEE = [
+    ("Srdjan Ostojic", "CNRS, École Normale Supérieure, Paris"),
+    ("Aleksandra Walczak", "CNRS, École Normale Supérieure, Paris"),
 ]
 
 # Where the "Apply" button points. The IESC runs online registration for its
@@ -190,11 +196,14 @@ def speakers_body():
 
 def organizers_body():
     items = "".join(person(n, i) for n, i in ORGANIZERS)
+    committee = "".join(person(n, i) for n, i in SCIENTIFIC_COMMITTEE)
     return f"""<section id="organizers"><h2>Organizers</h2>
 <p>The conference is organised by five group leaders working on the mathematical foundations of neural
 computation, across geometry of representations, statistical methods, circuit dynamics and NeuroAI.</p>
 <ul class="people">{items}</ul>
-<h2>Contact</h2>
+<h3 class="subhead">Scientific committee</h3>
+<ul class="people">{committee}</ul>
+<h3 class="subhead">Contact</h3>
 <p>For questions about the scientific programme, please contact the organizers. Practical questions about
 accommodation and travel are handled by the <a href="https://iesc.universita.corsica/">IESC</a>.</p></section>
 """

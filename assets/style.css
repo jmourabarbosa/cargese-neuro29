@@ -85,6 +85,8 @@ nav a[aria-current="page"] { color: var(--text); border-bottom-color: var(--acce
   .theme-toggle { width: 30px; height: 30px; }
 }
 
+h3.subhead { font-family: "Source Serif 4", Georgia, serif; font-weight: 600; font-size: 1.2rem; margin: 36px 0 4px; }
+
 /* Hero */
 .hero { background: var(--surface); border-bottom: 1px solid var(--line); }
 .hero .wrap { padding-top: 56px; padding-bottom: 48px; }
