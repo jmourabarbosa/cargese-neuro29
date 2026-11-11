@@ -19,5 +19,10 @@ Photos taken from each person's own website or institutional profile, cropped to
 | lorenzo-fontolan.jpg | fontolanl.github.io |
 | agostina-palmigiano.jpg | palmigianolab.com/people |
 | lorenzo-posani.jpg | lorenzoposani.com |
+| francesca-mastrogiuseppe.jpg | Google Scholar profile photo |
+| francesca-mignacco.jpg | biophysics.princeton.edu |
+| sebastian-goldt.jpg | datascience.sissa.it |
+| ulises-pereira.jpg | image search thumbnail (provided by the organizers) |
+| lea-duncker.jpg | image search thumbnail (provided by the organizers) |
 
-Missing (shown as initials): Francesca Mastrogiuseppe, Francesca Mignacco, Sebastian Goldt, Ulises Pereira, Lea Duncker.
+Venue photo (img/venue.jpg): image search thumbnail provided by the organizers.

@@ -145,6 +145,7 @@ systems, with time to work through assumptions and derivations, not only results
 </table>
 
 <h2>Venue</h2>
+<figure class="venue"><img src="img/venue.jpg" alt="The Institut d'Études Scientifiques de Cargèse, on a green hillside above the sea" width="678" height="452" loading="lazy"><figcaption>The Institut d'Études Scientifiques de Cargèse.</figcaption></figure>
 <p>The conference takes place at the Institut d'Études Scientifiques de Cargèse (IESC), a residential
 institute on the west coast of Corsica, about an hour by road from Ajaccio airport. Participants are housed
 on site or in the village, and lunches are taken together at the institute.</p>

@@ -108,6 +108,10 @@ table.schedule th { color: var(--muted); font-weight: 600; width: 34%; }
   .avatar { width: 104px; height: 104px; font-size: 1.7rem; }
 }
 
+.venue { margin: 16px 0 20px; max-width: 70ch; }
+.venue img { display: block; width: 100%; height: auto; border-radius: 6px; }
+.venue figcaption { color: var(--muted); font-size: 0.88rem; margin-top: 6px; }
+
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
 .site-footer .wrap { padding-top: 20px; padding-bottom: 28px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
