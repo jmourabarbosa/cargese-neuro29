@@ -210,8 +210,6 @@ def organizers_body():
     items = "".join(person(n, i) for n, i in ORGANIZERS)
     committee = "".join(person(n, i) for n, i in SCIENTIFIC_COMMITTEE)
     return f"""<section id="organizers"><h2>Organizers</h2>
-<p>The conference is organised by five group leaders working on the mathematical foundations of neural
-computation, across geometry of representations, statistical methods, circuit dynamics and NeuroAI.</p>
 <ul class="people">{items}</ul>
 <h3 class="subhead">Scientific committee</h3>
 <ul class="people">{committee}</ul>
