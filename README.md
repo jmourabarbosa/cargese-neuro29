@@ -4,10 +4,8 @@ A static website for the Cargèse 2029 conference on theoretical neuroscience: p
 
 ## Pages
 
-- `index.html`: about, scientific themes, format and venue
-- `speakers.html`: confirmed speakers
-- `organizers.html`: organizing committee and contact
-- `apply.html`: how to apply for a poster or contributed talk
+- `index.html`: the whole site on one page (about, organizers, themes, speakers, format, venue, apply); the menu scrolls to each section
+- `speakers.html`, `organizers.html`, `apply.html`: redirects to the matching section, so old links keep working
 
 ## Editing
 
