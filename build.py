@@ -29,6 +29,7 @@ SPEAKERS = [
     ("Francesca Mastrogiuseppe", "SISSA, Trieste", "Neural circuits"),
     ("Leenoy Meshulam", "Brown University", "Neural circuits"),
     ("Yonathan Aljadeff", "UC San Diego", "Neural circuits"),
+    ("Andrew Saxe", "Gatsby Unit, University College London", "Learning"),
     ("Francesca Mignacco", "Princeton University", "Learning"),
     ("Sebastian Goldt", "SISSA, Trieste", "Learning"),
     ("Samuel Muscinelli", "University of Chicago", "Learning"),
