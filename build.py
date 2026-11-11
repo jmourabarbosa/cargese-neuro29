@@ -221,8 +221,8 @@ accommodation and travel are handled by the <a href="https://iesc.universita.cor
 
 def apply_body():
     return f"""<section id="apply"><h2>Apply to attend</h2>
-<p>About 40 places are open to PhD students, postdocs and early-career researchers. Applicants can
-request to present a poster or a contributed talk.</p>
+<p>About 40 places are open to PhD students, postdocs and early-career researchers.
+<strong>All participants must present their work, either as a poster or as a contributed talk.</strong></p>
 <div class="note">Applications are not open yet. The call, deadline and selection dates will be announced on this page.</div>
 
 <h3>Who should apply</h3>
@@ -233,7 +233,7 @@ for neural systems.</p>
 <h3>How to apply</h3>
 <ol class="steps">
 <li>Prepare a short CV and a one-paragraph statement explaining how the conference relates to your work.</li>
-<li>Prepare an abstract (up to 300 words) if you would like to present a poster or a contributed talk, and indicate your preference.</li>
+<li>Prepare an abstract (up to 300 words) for your poster or contributed talk, and indicate which format you prefer.</li>
 <li>Submit your application through the IESC online registration system once the call opens.</li>
 </ol>
 
