@@ -212,6 +212,7 @@ FORMAT = """<section id="format"><h2>Format</h2>
 
 VENUE_SECTION = """<section id="venue"><h2>Venue</h2>
 <figure class="venue"><img src="img/venue.jpg" alt="The Institut d'Études Scientifiques de Cargèse, on a green hillside above the sea" width="678" height="452" loading="lazy"><figcaption>The Institut d'Études Scientifiques de Cargèse.</figcaption></figure>
+<figure class="video"><div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/OmZZhEgi4wo" title="Présentation de l'IES Cargèse (video)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><figcaption>Video presentation of the institute by the IESC. <a href="https://www.youtube.com/watch?v=OmZZhEgi4wo">Watch on YouTube</a>.</figcaption></figure>
 <p>The conference takes place at the Institut d'Études Scientifiques de Cargèse (IESC), a residential
 institute on the west coast of Corsica, about an hour by road from Ajaccio airport. Participants are housed
 on site or in the village, and lunches are taken together at the institute.</p>
