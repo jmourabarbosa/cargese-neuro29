@@ -27,6 +27,6 @@ Photos taken from each person's own website or institutional profile, cropped to
 | andrew-saxe.jpg | saxelab.org/people |
 | richard-gao.jpg | mackelab.org/people |
 | srdjan-ostojic.jpg | lnc2.dec.ens.fr/fr/member/655/srdjan-ostojic |
-| aleksandra-walczak.jpg | phys.ens.psl.eu/~awalczak |
+| aleksandra-walczak.jpg | parisneuro.fr (provided by the organizers) |
 
 Venue photo (img/venue.jpg): image search thumbnail provided by the organizers.
