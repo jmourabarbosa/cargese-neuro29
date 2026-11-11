@@ -26,7 +26,7 @@ SPEAKERS = [
     ("Pedro Gonçalves", "KU Leuven", "Statistical models"),
     ("Joana Soldado Magraner", "Carnegie Mellon University", "Statistical models"),
     ("Zachary Kilpatrick", "University of Colorado Boulder", "Neural circuits"),
-    ("Francesca Mastrogiuseppe", "Champalimaud Foundation", "Neural circuits"),
+    ("Francesca Mastrogiuseppe", "SISSA, Trieste", "Neural circuits"),
     ("Leenoy Meshulam", "Brown University", "Neural circuits"),
     ("Yonathan Aljadeff", "UC San Diego", "Neural circuits"),
     ("Francesca Mignacco", "Princeton University", "Learning"),
