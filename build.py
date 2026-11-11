@@ -23,16 +23,17 @@ SPEAKERS = [
     ("Alex Cayco-Gajic", "École Normale Supérieure, Paris", "Geometry"),
     ("Valeria Fascianelli", "Columbia University", "Geometry"),
     ("Ramon Nogueira", "University of Chicago", "Geometry"),
-    ("Leenoy Meshulam", "Brown University", "Geometry"),
     ("Pedro Gonçalves", "KU Leuven", "Statistical models"),
     ("Joana Soldado Magraner", "Carnegie Mellon University", "Statistical models"),
+    ("Zachary Kilpatrick", "University of Colorado Boulder", "Neural circuits"),
     ("Francesca Mastrogiuseppe", "Champalimaud Foundation", "Neural circuits"),
+    ("Leenoy Meshulam", "Brown University", "Neural circuits"),
     ("Yonathan Aljadeff", "UC San Diego", "Neural circuits"),
     ("Francesca Mignacco", "Princeton University", "Learning"),
     ("Sebastian Goldt", "SISSA, Trieste", "Learning"),
     ("Samuel Muscinelli", "University of Chicago", "Learning"),
-    ("Ulises Pereira", "Allen Institute", "NeuroAI"),
     ("Dan Levenstein", "Yale University", "NeuroAI"),
+    ("Ulises Pereira", "Allen Institute", "NeuroAI"),
 ]
 
 ORGANIZERS = [
