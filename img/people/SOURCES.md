@@ -16,7 +16,7 @@ Photos taken from each person's own website or institutional profile, cropped to
 | samuel-muscinelli.jpg | neuroscience.uchicago.edu (TPCN faculty page) |
 | dan-levenstein.jpg | medicine.yale.edu/profile/daniel-levenstein |
 | joao-barbosa.jpg | jbarbosa.org |
-| lorenzo-fontolan.jpg | fontolanl.github.io |
+| lorenzo-fontolan.jpg | provided by the organizers |
 | agostina-palmigiano.jpg | palmigianolab.com/people |
 | lorenzo-posani.jpg | lorenzoposani.com |
 | francesca-mastrogiuseppe.jpg | Google Scholar profile photo |
