@@ -51,6 +51,26 @@ SCIENTIFIC_COMMITTEE = [
     ("Aleksandra Walczak", "CNRS, École Normale Supérieure, Paris"),
 ]
 
+# Homepage linked from each person's photo and name
+URLS = {
+    "Alex Williams": "https://alexhwilliams.info/",
+    "Alex Cayco-Gajic": "https://caycogajiclab.github.io/",
+    "Ramon Nogueira": "https://datascience.uchicago.edu/people/ramon-nogueira/",
+    "Pedro Gonçalves": "https://ppjgoncalves.github.io/",
+    "Joana Soldado Magraner": "https://jsoldadomagraner.github.io/",
+    "Zachary Kilpatrick": "https://www.colorado.edu/neuroscience/zachary-kilpatrick",
+    "Leenoy Meshulam": "https://physics.brown.edu/people/leenoy-meshulam",
+    "Yonathan Aljadeff": "https://aljadeff.ucsd.edu/",
+    "Andrew Saxe": "https://www.saxelab.org/",
+    "Dan Levenstein": "https://medicine.yale.edu/profile/daniel-levenstein/",
+    "Richard Gao": "https://rdgao.github.io/",
+    "Joao Barbosa": "https://jbarbosa.org/",
+    "Lea Duncker": "https://leaduncker.github.io/",
+    "Lorenzo Fontolan": "https://fontolanl.github.io/",
+    "Agostina Palmigiano": "https://palmigianolab.com/",
+    "Lorenzo Posani": "https://lorenzoposani.com/",
+}
+
 # Where the "Apply" button points. The IESC runs online registration for its
 # meetings; replace with the event-specific link once the IESC page exists.
 APPLY_URL = "https://iesc.universita.corsica/"
@@ -74,9 +94,13 @@ def initials(name):
 
 def person(name, inst, tag=None):
     t = f'<span class="tag">{E(tag)}</span>' if tag else ""
-    return (f'<li class="person"><div class="avatar" aria-hidden="true">{initials(name)}'
+    face = (f'<div class="avatar" aria-hidden="true">{initials(name)}'
             f'<img src="img/people/{slug(name)}.jpg" alt="" loading="lazy" onerror="this.remove()"></div>'
-            f'<div class="name">{E(name)}</div><div class="inst">{E(inst)}</div>{t}</li>')
+            f'<div class="name">{E(name)}</div>')
+    url = URLS.get(name)
+    if url:
+        face = f'<a class="person-link" href="{E(url)}" target="_blank" rel="noopener">{face}</a>'
+    return f'<li class="person">{face}<div class="inst">{E(inst)}</div>{t}</li>'
 
 
 HEAD_JS = """<script>try{if(localStorage.getItem("theme")==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>"""
