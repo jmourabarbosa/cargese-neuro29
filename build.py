@@ -69,6 +69,14 @@ URLS = {
     "Lorenzo Fontolan": "https://fontolanl.github.io/",
     "Agostina Palmigiano": "https://palmigianolab.com/",
     "Lorenzo Posani": "https://lorenzoposani.com/",
+    "Valeria Fascianelli": "https://valeriafascianelli.com/",
+    "Francesca Mastrogiuseppe": "https://iris.sissa.it/cris/rp/rp26328",
+    "Francesca Mignacco": "https://www.simonsfoundation.org/people/francesca-mignacco/",
+    "Sebastian Goldt": "https://datascience.sissa.it/research-unit/12/theory-of-neural-networks",
+    "Samuel Muscinelli": "https://cns.uchicago.edu/faculty/samuel-muscinelli",
+    "Ulises Pereira": "https://ulisespereira.github.io/",
+    "Srdjan Ostojic": "https://lnc2.dec.ens.fr/fr/teams/network-dynamics-and-computations",
+    "Aleksandra Walczak": "https://sites.google.com/view/statbiophysens",
 }
 
 # Where the "Apply" button points. The IESC runs online registration for its
