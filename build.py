@@ -205,7 +205,7 @@ FORMAT = """<section id="format"><h2>Format</h2>
 <table class="schedule">
 <tr><th>Mornings</th><td>Two-hour chalkboard lectures that work through derivations and algorithms in detail.</td></tr>
 <tr><th>Afternoons</th><td>Research seminars on the day's theme, including contributed talks selected from participant abstracts.</td></tr>
-<tr><th>Late afternoons</th><td>Poster sessions with whiteboards, a mentorship session across career stages, and a closing round table on the future of theoretical neuroscience.</td></tr>
+<tr><th>Late afternoons</th><td>Poster sessions with whiteboards, a mentorship session across career stages, and a daily closing round table on the future of theoretical neuroscience in the age of AI.</td></tr>
 <tr><th>Participants</th><td>About 65 in total: invited speakers and around 40 PhD students, postdocs and early-career researchers selected by application.</td></tr>
 </table></section>
 """
