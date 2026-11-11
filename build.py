@@ -186,9 +186,21 @@ on site or in the village, and lunches are taken together at the institute.</p>
 """
 
 
+# Placeholder cards so the speaker grid ends on a full row (5 per row on desktop)
+ROW = 5
+SILHOUETTE = ('<svg class="silhouette" viewBox="0 0 64 64" aria-hidden="true">'
+              '<circle cx="32" cy="24" r="12"/><path d="M8 60c2-14 12-22 24-22s22 8 24 22z"/></svg>')
+
+
+def tbc_card():
+    return (f'<li class="person tbc"><div class="avatar" aria-hidden="true">{SILHOUETTE}</div>'
+            '<div class="name">To be confirmed</div><div class="inst">Speaker to be announced</div></li>')
+
+
 def speakers_body():
     items = "".join(person(n, i, t) for n, i, t in SPEAKERS)
-    return f"""<section id="speakers"><h2>Confirmed speakers</h2>
+    items += tbc_card() * ((-len(SPEAKERS)) % ROW)
+    return f"""<section id="speakers"><h2>Speakers</h2>
 <p>Lecturers and seminar speakers confirmed so far. The list will be updated as further speakers confirm.</p>
 <ul class="people">{items}</ul></section>
 """

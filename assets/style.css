@@ -85,6 +85,9 @@ nav a[aria-current="page"] { color: var(--text); border-bottom-color: var(--acce
   .theme-toggle { width: 30px; height: 30px; }
 }
 
+.avatar .silhouette { width: 62%; height: 62%; margin-top: 18%; fill: var(--accent); opacity: 0.35; }
+.person.tbc .name { color: var(--muted); font-weight: 600; }
+
 h3.subhead { font-family: "Source Serif 4", Georgia, serif; font-weight: 600; font-size: 1.2rem; margin: 36px 0 4px; }
 
 /* Hero */
