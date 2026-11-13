@@ -25,6 +25,8 @@ Photos taken from each person's own website or institutional profile, cropped to
 | ulises-pereira.jpg | image search thumbnail (provided by the organizers) |
 | lea-duncker.jpg | image search thumbnail (provided by the organizers) |
 | andrew-saxe.jpg | saxelab.org/people |
+| jonathan-pillow.jpg | collaborate.princeton.edu (Princeton research profile) |
+| claudia-clopath.jpg | imperial.ac.uk/people/c.clopath |
 | richard-gao.jpg | mackelab.org/people |
 | srdjan-ostojic.jpg | lnc2.dec.ens.fr/fr/member/655/srdjan-ostojic |
 | aleksandra-walczak.jpg | parisneuro.fr (provided by the organizers) |

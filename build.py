@@ -25,6 +25,7 @@ SPEAKERS = [
     ("Ramon Nogueira", "University of Chicago", "Geometry"),
     ("Pedro Gonçalves", "KU Leuven", "Statistical models"),
     ("Joana Soldado Magraner", "Carnegie Mellon University", "Statistical models"),
+    ("Jonathan Pillow", "Princeton University", "Statistical models"),
     ("Zachary Kilpatrick", "University of Colorado Boulder", "Neural circuits"),
     ("Francesca Mastrogiuseppe", "SISSA, Trieste", "Neural circuits"),
     ("Leenoy Meshulam", "Brown University", "Neural circuits"),
@@ -49,6 +50,7 @@ ORGANIZERS = [
 SCIENTIFIC_COMMITTEE = [
     ("Srdjan Ostojic", "CNRS, École Normale Supérieure, Paris"),
     ("Aleksandra Walczak", "CNRS, École Normale Supérieure, Paris"),
+    ("Claudia Clopath", "Imperial College London"),
 ]
 
 # Homepage linked from each person's photo and name
@@ -77,6 +79,8 @@ URLS = {
     "Ulises Pereira": "https://ulisespereira.github.io/",
     "Srdjan Ostojic": "https://lnc2.dec.ens.fr/fr/teams/network-dynamics-and-computations",
     "Aleksandra Walczak": "https://sites.google.com/view/statbiophysens",
+    "Jonathan Pillow": "https://collaborate.princeton.edu/en/persons/jonathan-william-pillow/",
+    "Claudia Clopath": "https://www.imperial.ac.uk/people/c.clopath",
 }
 
 # Where the "Apply" button points. The IESC runs online registration for its
