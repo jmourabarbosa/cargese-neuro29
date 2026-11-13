@@ -13,7 +13,7 @@ import unicodedata
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 TITLE = "Cargèse 2029"
-SUBTITLE = "Theoretical Neuroscience: Dynamics, Geometry and Learning"
+SUBTITLE = "Theoretical neuroscience: linking dynamics, geometry and learning"
 DATES = "Dates to be announced"
 VENUE = "Institut d'Études Scientifiques de Cargèse, Corsica"
 
