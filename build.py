@@ -177,6 +177,7 @@ def page(body, hero=""):
 HERO = f"""<section class="hero"><div class="wrap">
 <p class="kicker">International conference · 10 days</p>
 <h1>{E(SUBTITLE)}</h1>
+<p class="question">Can a common mathematical framework link how neural circuits are wired, how their activity is organised, and how they learn?</p>
 <p class="lead">A residential meeting that brings together theorists from mathematics, physics,
 statistics, computer science and neuroscience to work on the mathematical foundations of neural computation.</p>
 <ul class="facts">
@@ -190,7 +191,8 @@ ABOUT = """<section id="about"><h2>About the conference</h2>
 <p>New recording technologies now capture the activity of tens of thousands of neurons at once, across
 brain regions and over weeks of behaviour. Our theoretical frameworks have not kept pace: turning these
 data into an understanding of how the brain computes requires new ideas from mathematics, statistics,
-physics and computer science.</p>
+physics and computer science. The conference is built around the central question above: a shared
+mathematical account of how circuits are wired, how their activity is organised, and how they learn.</p>
 <p>This conference creates a space for in-depth, mathematically explicit exchange between theorists who
 usually work in separate communities. The programme emphasises methods, guarantees and transfer across
 systems, with time to work through assumptions and derivations, not only results.</p></section>
@@ -200,8 +202,8 @@ THEMES = """<section id="themes"><h2>Scientific themes</h2>
 <p>The meeting is organised around five connected axes, each covered over two days.</p>
 <ul class="themes">
 <li><strong>Geometry of population activity</strong><span>Manifolds, dimensionality and alignment of neural representations across tasks and individuals.</span></li>
-<li><strong>Latent-variable and statistical models</strong><span>State-space models, variational inference and identifiability for high-dimensional neural time series.</span></li>
-<li><strong>Theory of computing circuits</strong><span>Dynamical mean-field theory, structured connectivity and control theory of recurrent networks.</span></li>
+<li><strong>Latent-variable and statistical models</strong><span>Inferring hidden dynamical variables from noisy, high-dimensional recordings.</span></li>
+<li><strong>Theory of computing circuits</strong><span>Mean-field theory of recurrent networks and how connectivity shapes their dynamics.</span></li>
 <li><strong>Theory of learning</strong><span>Statistical physics of learning, learning under biological constraints, learning regimes.</span></li>
 <li><strong>NeuroAI</strong><span>Deep networks as computational hypotheses and comparisons of artificial and biological representations.</span></li>
 </ul></section>
