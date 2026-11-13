@@ -27,6 +27,7 @@ Photos taken from each person's own website or institutional profile, cropped to
 | andrew-saxe.jpg | saxelab.org/people |
 | jonathan-pillow.jpg | collaborate.princeton.edu (Princeton research profile) |
 | claudia-clopath.jpg | imperial.ac.uk/people/c.clopath |
+| remi-monasson.jpg | phys.ens.psl.eu/~monasson |
 | richard-gao.jpg | mackelab.org/people |
 | srdjan-ostojic.jpg | lnc2.dec.ens.fr/fr/member/655/srdjan-ostojic |
 | aleksandra-walczak.jpg | parisneuro.fr (provided by the organizers) |

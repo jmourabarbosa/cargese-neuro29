@@ -51,6 +51,7 @@ SCIENTIFIC_COMMITTEE = [
     ("Srdjan Ostojic", "CNRS, École Normale Supérieure, Paris"),
     ("Aleksandra Walczak", "CNRS, École Normale Supérieure, Paris"),
     ("Claudia Clopath", "Imperial College London"),
+    ("Rémi Monasson", "CNRS, École Normale Supérieure, Paris"),
 ]
 
 # Homepage linked from each person's photo and name
@@ -81,6 +82,7 @@ URLS = {
     "Aleksandra Walczak": "https://sites.google.com/view/statbiophysens",
     "Jonathan Pillow": "https://collaborate.princeton.edu/en/persons/jonathan-william-pillow/",
     "Claudia Clopath": "https://www.imperial.ac.uk/people/c.clopath",
+    "Rémi Monasson": "https://www.phys.ens.psl.eu/~monasson/",
 }
 
 # Where the "Apply" button points. The IESC runs online registration for its
